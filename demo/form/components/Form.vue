@@ -33,7 +33,7 @@ export default {
       InputMail,
 
   },
-  name: 'Push'
+  name: 'Form'
 }
 </script>
 

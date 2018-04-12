@@ -1,8 +1,8 @@
 import Vue from 'vue'
 
-import Push from '@/components/Push'
+import Form from '@/components/Form'
 
 new Vue({
     el: '#app',
-    render: h => h(Push)
+    render: h => h(Form)
 })
