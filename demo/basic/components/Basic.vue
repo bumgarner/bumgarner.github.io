@@ -22,7 +22,7 @@ export default {
         AppSidebar,
         AppContents
     },
-    name: "Push"
+    name: "Basic"
     // data() {
     //     return
     // }
