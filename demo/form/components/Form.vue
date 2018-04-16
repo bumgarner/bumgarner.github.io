@@ -10,7 +10,7 @@
                         <input-pass></input-pass>
                         <input-name></input-name>                        
                         <input-mail></input-mail>                       
-                        
+                        <button class="btn">가입하기</button>
                     </form>
                 </div>
             </div>
