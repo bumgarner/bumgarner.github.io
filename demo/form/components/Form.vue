@@ -10,7 +10,7 @@
                         <input-pass></input-pass>
                         <input-name></input-name>                        
                         <input-mail></input-mail>                       
-                        <button class="btn">가입하기</button>
+                        <input type="submit" id="btnJoin" class="btn" title="가입하기" alt="가입하기" value="가입하기" >
                     </form>
                 </div>
             </div>
