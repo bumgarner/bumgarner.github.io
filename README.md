@@ -24,7 +24,6 @@ Vue-loader를 이용한 기본형 form 페이지
    - Vue
    - Vue-loader
    - Webpack 4
-   - Responsive Web
 
    > Page link : [form](https://bumgarner.github.io/demo/form)
 
