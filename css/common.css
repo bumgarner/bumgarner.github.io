@@ -41,4 +41,20 @@ a:hover,a:active,a:focus{text-decoration:underline}
 .btn-more:hover:after { background-color: #fff; }
 .btn-more:hover { color: #fff; -webkit-box-shadow: none; box-shadow: none; background: #03a9f4; text-decoration: none; }
 
+@media screen and (max-width: 940px) {
+  .stack-list-wrapper {margin-left:130px;}
+}
 
+@media screen and (max-width: 939px) {
+  .content {padding:30px 25px 25px 180px}
+  .content-intro-wrapper {width:100%;}
+  .stack-list-wrapper {width:100%; margin:20px 0 0 0;}
+  .stack-list:after {display:block; clear: both; content:'';}
+  .stack-list li {float: left; margin-right:10px; }
+}
+
+@media screen and (max-width: 549px) {
+  .content-wrapper {height:auto;}
+  .content-num {left:30px;}
+  .content {padding: 80px 25px 25px 30px;}
+}
